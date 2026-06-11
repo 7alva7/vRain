@@ -32,9 +32,9 @@ vRain（兀雨）是一個 Perl 工具鏈，可將中文文本生成為古籍刻
 - 作者小紅書主頁：兀雨書屋
 - Apple Store：兀雨書屋
 
-![image](https://github.com/shanleiguang/vBooks/blob/main/images/017.png)
+![image](https://github.com/shanleiguang/vRain/blob/main/images/017.png)
 
-![image](https://github.com/shanleiguang/vBooks/blob/main/images/019.png)
+![image](https://github.com/shanleiguang/vRain/blob/main/images/019.png)
 
 ## Example
 
