@@ -30,6 +30,11 @@ vRain（兀雨）是一個 Perl 工具鏈，可將中文文本生成為古籍刻
 - 百萬字書籍十幾分鐘生成
 - 採用Perl語言開發，需安裝Image::Magick和PDF::Builder等模塊
 - 作者小紅書主頁：兀雨書屋
+— Apple Store：兀雨書屋
+
+![image](https://github.com/shanleiguang/vBooks/blob/main/017.png)
+
+![image](https://github.com/shanleiguang/vBooks/blob/main/019.png)
 
 ## Example
 
